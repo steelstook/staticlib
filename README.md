@@ -1,0 +1,2 @@
+# staticlib
+Static Libarary
